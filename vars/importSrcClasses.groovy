@@ -1,4 +1,4 @@
-import com.aukusto.*;
+import com.aukustomx.*;
 
 def call(script) {
     def myCar = new Car(script)

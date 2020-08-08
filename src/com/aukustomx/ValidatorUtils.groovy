@@ -1,4 +1,4 @@
-package com.acceleratedskillup;
+package com.aukustomx;
 
 class ValidatorUtils {
 

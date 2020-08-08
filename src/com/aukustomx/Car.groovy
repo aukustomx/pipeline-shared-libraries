@@ -1,4 +1,4 @@
-ackage com.acceleratedskillup;
+package com.aukustomx;
 
 class Car {
   int numberOfDoors
